@@ -16,3 +16,5 @@ class i_Arraystack {
 		void push(int e);
 		int pop(void);
 };
+
+#include "i_stack.h"
