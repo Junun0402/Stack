@@ -9,7 +9,7 @@ int main() {
 		A.push(i);
 	}
 	A.isFull();
-	for(int i=0, i<10; i++) {
+	for(int i=0; i<10; i++) {
 		cout << A.pop() << endl;
 	}
 	cout << A.pop();
